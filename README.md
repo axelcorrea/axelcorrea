@@ -11,7 +11,7 @@
 * HTML
 * CSS
 * JavaScript
-* Gulp y SASS
+* Gulp & SASS
 * SQL
 
 
