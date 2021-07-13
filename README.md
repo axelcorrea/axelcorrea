@@ -8,7 +8,7 @@
   - 🌱 Estoy aprendiendo mediante Udemy y estoy paralelamente cursando en Educacion IT
   - 💬 Podes preguntarme con tranquilidad sobre mis conocimientos y experiencia en el area.
   - 😄 Pronombres: He / Him
-  - ⚡ Dato random: me encanta la seguridad informatica
+  - ⚡ Dato random: me encanta el lemon pie
   
   #### 📫 Como contactarme:
 
